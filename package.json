@@ -1,0 +1,11 @@
+{
+  "name": "js-build-tools",
+  "version": "1.0.0",
+  "description": "example project for setting up webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Tedford",
+  "license": "ISC"
+}
